@@ -1,0 +1,11 @@
+Walk 1-34
+IdleA 35-275
+GrazeA 276-386
+GrazeB 387-502
+Trot 503-520
+Run 521-532
+idleB 533-632
+Attack 633-703
+Scared 704-774
+
+(SOme engines start at 0 - so minus 1 from each frame.  i.e. walk would be 0-40)
